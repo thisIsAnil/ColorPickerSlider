@@ -4,7 +4,7 @@
 
 #Screenshot
 
-[Screen1](images/s1.png)		[Screenshot2](images/s2.png)
+<img src="images/s1.png" width="360" height="640" /> <img src="images/s2.png" width="360" height="640" />
 
 
 #Usage
